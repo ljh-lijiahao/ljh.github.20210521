@@ -8,7 +8,7 @@
 			text-align: center;
 			font-size: 16px;
 		}
-		div{
+		.p-1{
 			font-size: 8px;
 			font-style: oblique;
 			color: #A2A2A2;
@@ -18,8 +18,8 @@
 
 <body>
 	<h2>一颗会开花的树</h2>
-	<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-		作者：席慕容</div>
+	<p class="p-1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		作者：席慕容</p>
     <p>如何让你遇见我<br/>
         在我最美丽的时刻</p>
 	<p>为这<br/>我已在佛前求了五百年<br/>
