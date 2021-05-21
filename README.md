@@ -38,6 +38,6 @@
 		朋友啊<br/>
 		那不是花瓣<br/>
 		那是我凋零的心</p>
-<br>
+	<img src="https://qgt-style.oss-cn-hangzhou.aliyuncs.com/newcoursep4/g1/g1-2-2/tenor.gif" />
 </body>
 </html>
